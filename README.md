@@ -8,7 +8,10 @@
 
 #-----------------------------------------------------------------------------------------------------------------------------
 
-演示站:https://davisonwang.github.io/davison.Github.io/
+Demonstration Station: https://davisonwang.github.io/davison.Github.io/
+
+github Main Web: https://github.com/davisonWang
+
 Email Address: wxwang@must.edu.mo
 
 多主题优雅个人主页
@@ -54,10 +57,6 @@ Email Address: wxwang@must.edu.mo
 # 缘由
 
 This GitHub repository serves as a platform to showcase the assignments of students. It provides a space where students can upload their work, allowing for easy access and review. The repository is designed to foster an interactive learning environment, encouraging students to share their work and receive feedback. It’s a great tool for tracking progress, sharing ideas, and promoting collaborative learning.
-
-
-github:https://github.com/ZYYO666/homepage
-
 
 #技术栈
 html
