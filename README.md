@@ -53,15 +53,7 @@ Email Address: wxwang@must.edu.mo
 
 # 缘由
 
-受到xhofe和ddiu个人主页的灵感启发
-
-感谢这二位大佬
-
-决定写款主页练手
-
-初个版本花了几个小时,页面并不复杂,但是在后续我花费了很多时间去优化这个主页,因为我有非常严重的强迫证,非常抓细节
-
-我真的为了这个主页的优化后续付出了非常多的心力,请还不要攻击,喜欢可以赞助,不喜欢可以走开
+This GitHub repository serves as a platform to showcase the assignments of students. It provides a space where students can upload their work, allowing for easy access and review. The repository is designed to foster an interactive learning environment, encouraging students to share their work and receive feedback. It’s a great tool for tracking progress, sharing ideas, and promoting collaborative learning.
 
 
 github:https://github.com/ZYYO666/homepage
