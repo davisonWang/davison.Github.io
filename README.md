@@ -18,13 +18,13 @@ Email Address: wxwang@must.edu.mo
 後續計劃增加主頁時鐘,主頁音樂播放器
 增加php管理後台
 
-# 1.1 最新更新--- Latest Update
+# 1.1 最新更新---Latest Update
 把所有圖片全部改為字體圖標
 去除鼠標樣式
 優化細節
 修改所有路徑為相對路徑
 修復其他問題
-# 1.2 最新更新--- Latest Update
+# 1.2 最新更新---Latest Update
 優化加載動畫
 增加點擊q彈動畫
 增加5套亮色主題,且通用css變量實現,完全取消主題切換對js的依賴.新增主題只需要在/static/root.css修改
@@ -45,7 +45,7 @@ Email Address: wxwang@must.edu.mo
 三套主題
 前台一鍵切換
 
-# 使用 How to Used
+# 使用---How to Used
 
 下載解壓即可訪問
 /static/root.css主題文件
@@ -54,7 +54,7 @@ Email Address: wxwang@must.edu.mo
 /static/img/favicon.ico網頁ico和主頁頭像
 /static/script.js js文件
 
-# 緣由 Cause
+# 緣由---Cause
 
 This GitHub repository serves as a platform to showcase the assignments of students. It provides a space where students can upload their work, allowing for easy access and review. The repository is designed to foster an interactive learning environment, encouraging students to share their work and receive feedback. It’s a great tool for tracking progress, sharing ideas, and promoting collaborative learning.
 
