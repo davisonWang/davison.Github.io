@@ -18,13 +18,13 @@ Email Address: wxwang@must.edu.mo
 後續計劃增加主頁時鐘,主頁音樂播放器
 增加php管理後台
 
-# 1.1 最新更新 Latest Update
+# 1.1 最新更新--- Latest Update
 把所有圖片全部改為字體圖標
 去除鼠標樣式
 優化細節
 修改所有路徑為相對路徑
 修復其他問題
-# 1.2 最新更新 Latest Update
+# 1.2 最新更新--- Latest Update
 優化加載動畫
 增加點擊q彈動畫
 增加5套亮色主題,且通用css變量實現,完全取消主題切換對js的依賴.新增主題只需要在/static/root.css修改
